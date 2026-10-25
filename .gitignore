@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.DS_Store
+
+# local environment / deployment config
+.env
+.env.*
+.vercel/
+.claude/
+
+# personal photos and backups — never commit these
+private/
+public-backup/
+public/album-*/
+*.heic
+*.HEIC
