@@ -1,7 +1,8 @@
 # Birthday Terminal
 
-An interactive birthday surprise that looks like a retro desktop. The birthday person answers questions in a pixel-art terminal; each correct answer adds something to an animated scene (a birthday hat, a toy car, a keyboard they can play, a companion character, a cake with candles to blow out) and the story ends with an envelope that opens an example letter.
+An interactive birthday surprise disguised as a retro desktop. The birthday person navigates a pixel-art terminal, answering quirky questions to unlock little surprises that gradually bring an animated scene to life - from birthday hats and toy cars to a playable mini keyboard, a companion character, and a cake with candles to blow out. The experience ends with a personalised envelope and a heartfelt letter.
 
+Perfect for coders, tech enthusiasts and anyone who loves a little nostalgia. Use it as a customisable template: swap the characters, artwork, questions, answers, letter and photos to create a one-of-a-kind birthday surprise for someone special.
 Use it as a **template**: swap the characters, artwork, questions, answers, letter and photos to make a personal surprise for a friend, partner or family member.
 
 > **Status:** the text and sample content are generic placeholders. The bundled artwork is sample art — replace it with your own (see [Replacing the artwork](#replacing-the-artwork)).
